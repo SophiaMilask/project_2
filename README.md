@@ -5,15 +5,14 @@ Source code, documentation, and report for Project 1 of Probability and Applied 
 
 -**'src/'** - source code for all programming projects  
 
-  -'pokemon/' - source code for Pokemon programming project.  
+  -'PSS/' - source code for all three version of the plotter, salter, and smoother.  
+        -'Java/' - the PSS done in Java
+        - 'Octave/' - the PSS done in Octave
+        - 'JFreeChart/' - the PSS done using JFreeChart and Apach Commons Library
   
-  -'MonteCarlo/' - source code for all four Monte Carlo simulations  
+  -'SimpleHashMap/' - source code for the "dumb" hash methods
   
-  -'MonteCarloExtension/'  - source code for the Coninuation of the Monte Carlo programming project  
-  
-  -'StatsLibrary/' - source code for all formulas from textbook programmed  
-  
-  -'SetOperations/' - source code for all off the set operations learned in class, plus extra  
+  -'StatsLibrary/'  - source code for the formulas from Probability and Applied Statistics programmed
   
 -**'docs/'** - Associated documents for Project 1  
 
