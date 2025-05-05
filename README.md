@@ -14,11 +14,13 @@ Source code, documentation, and report for Project 1 of Probability and Applied 
   
   -'StatsLibrary/'  - source code for the formulas from Probability and Applied Statistics programmed
   
--**'docs/'** - Associated documents for Project 1  
+-**'docs/'** - Associated documents for Project 2  
 
   -'documentation/' - documentation for all programming projects. This includes pictures of outputs, graphs, experiments, and drawn conclusions  
   
-  -'essay/' - the one-page GitHib essay  
+  -'FormulaSheet/' - the second formula sheet for every equation/formula from covered sections of the textbook  
+
+  -'Report/' - the report done for this class in APA format
   
 
 ## How to Use This Repository
@@ -27,6 +29,6 @@ Source code, documentation, and report for Project 1 of Probability and Applied 
   
 - Each folder in 'src/' will have all classes for their project, separated into Javadoc files
  
-- Go inside the 'doc/' folder for access to documentation and essay
+- Go inside the 'doc/' folder for access to documentation, formula sheet, and report
   
 - Documentation for each programming project is separated into PDFs
